@@ -1,4 +1,5 @@
 import pyttsx3
+import numpy
 import speech_recognition as sr
 import datetime
 import wikipedia
